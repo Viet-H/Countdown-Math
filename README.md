@@ -1,0 +1,5 @@
+- The program simulates a math puzzle where users select a combination of 6 numbers from large numbers (25, 50, 75, and 100) and small numbers (1 to 10).
+- Users will specify how many large numbers they want to include in their number sequence. The program also generates a random target number.
+- The objective is to use basic math operations on the number sequence to achieve the target number.
+- When a calculation is made, the used numbers are replaced by 0. The output will display the calculation result and will not include 0.
+- During the process, if the calculation result equals the target number, you win. Otherwise, you lose after the last calculation is made.
